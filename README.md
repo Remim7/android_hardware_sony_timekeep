@@ -1,7 +1,7 @@
 # TimeKeep
 
 TimeKeep is a small utility to keep track of time & date since the RTC 
-driver on Qualcomm chipset is read-only. 
+driver on Qualcomm chipset is read-only.
 
 It consist of two parts. A native tool, timekeep, to store and restore time and a Java 
 part (com.sony.timekeep) consisting of a single broadcastreceiver that receives 
